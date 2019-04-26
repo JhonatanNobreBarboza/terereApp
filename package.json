@@ -1,0 +1,23 @@
+{
+  "name": "terereapp",
+  "version": "1.0.0",
+  "description": "projeto criado como requisito da disciplina de domótica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonatanNobreBarboza/terereApp.git"
+  },
+  "author": "jhonatan nobre, Carlos Henrique, Lucas Ramiro, Lucas Magalhães, Davi Silva, Leandro dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonatanNobreBarboza/terereApp/issues"
+  },
+  "homepage": "https://github.com/JhonatanNobreBarboza/terereApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
