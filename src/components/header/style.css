@@ -1,0 +1,12 @@
+.header-wrapper {
+    display: flex;
+    width: 100%;
+    background-color: aquamarine;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-wrapper h1 {
+    color: black;
+}
